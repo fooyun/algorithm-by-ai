@@ -1,0 +1,1 @@
+This implementation uses two functions, mergeSort and merge. mergeSort is a recursive function that splits the input array into two sub-arrays and recursively sorts them using mergeSort. The two sorted sub-arrays are then merged using the merge function, which takes two sorted arrays and merges them into one sorted array.

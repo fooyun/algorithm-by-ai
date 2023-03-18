@@ -1,0 +1,3 @@
+The bubbleSort function takes an array as input and returns the sorted array using the bubble sort algorithm. The function works by iterating through the array and comparing adjacent elements, swapping them if they are in the wrong order. This process is repeated until the entire array is sorted.
+
+The time complexity of the bubble sort algorithm is O(n^2), where n is the number of elements in the array. This is because in the worst case scenario, the algorithm needs to iterate through the entire array n times, and for each iteration, it needs to compare and potentially swap n-1 pairs of adjacent elements. This makes bubble sort very inefficient for large arrays, but it can be useful for small arrays or for educational purposes.
